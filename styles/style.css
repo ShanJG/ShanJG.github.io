@@ -27,11 +27,11 @@ html {
 body {
   /*width: 600px;*/
   width: 75%;
-  height: 0;
+  box-align: center;
   background-color: #3F9B6D;
-  padding: 0 3% 250% 3%;
+  padding: 0 3% 5% 3%;
   border: 5px solid #353535;
-  margin: 0 auto;
+  margin: auto;
 }
 
 h1 {
