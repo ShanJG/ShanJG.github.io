@@ -10,28 +10,31 @@ h2 {
   font-size: 25px;
   font-family: 'Chelsea Market', cursive;
 }
-p, li {
-  font-size: 20px;    
+p {
+  font-size: 17px;    
   line-height: 2;
   letter-spacing: 1px;
   font-family: 'Cormorant Garamond', serif;
 }
-
+#Ch {
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+  letter-spacing: 1px;
+}
 html {
-  background-color: #00539F;
+  background-color: #B293D1;
 }
 
 body {
   width: 600px;
-  background-color: #FF9500;
+  background-color: #3F9B6D;
   padding: 0 20px 20px 20px;
-  border: 5px solid black;
+  border: 5px solid #353535;
   margin: 0 auto;
 }
 
 h1 {
   padding: 20px 0;    
-  color: #00539F;
+  color: #FAFA42;
   text-shadow: 3px 3px 1px black;
   margin: 0;
 }
